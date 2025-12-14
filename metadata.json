@@ -1,0 +1,5 @@
+{
+  "name": "SiamGreetings AI",
+  "description": "Generate personalized International New Year blessing cards in Thai using Gemini AI.",
+  "requestFramePermissions": []
+}
